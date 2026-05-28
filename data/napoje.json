@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Przykladowy Napoj",
+    "description": "Tutaj wpisz opis napoju. Mozesz pisac o skladnikach, smaku, sposobie podania i innych szczegolach.",
+    "image": "images/przykladowy-napoj.jpg",
+    "reference": "Pan Tadeusz, Ksiega I, w. 1-2"
+  },
+  {
+    "name": "Przykladowy Napoj Alkoholowy",
+    "description": "Tutaj wpisz opis napoju alkoholowego. Mozesz pisac o skladnikach, smaku, sposobie podania i innych szczegolach.",
+    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "reference": "Pan Tadeusz, Ksiega I, w. 1-2",
+    "subcategory": "napoje-alkoholowe"
+  }
+]
