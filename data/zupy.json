@@ -1,8 +1,29 @@
 [
   {
-    "name": "Przykladowa Zupa",
-    "description": "Tutaj wpisz opis zupy. Mozesz pisac o skladnikach, smaku, sposobie podania i innych szczegolach.",
-    "image": "images/przykladowa-zupa.jpg",
-    "reference": "Pan Tadeusz, Ksiega I, w. 1-2"
+    "name": "Chłodnik Litewski",
+    "description": "Chłodnik, którego podstawę stanowi gotowana botwina zmieszana ze zsiadłym mlekiem wraz z dodatkami, takimi jak surowy ogórek, koperek, jajko na twardo.",
+    "image": "images/chlodnik.jpg",
+    "reference": "Księga I, Mężczyznom dano wódkę. Wtenczas wszyscy siedli i chłodziec litewski milcząc żwawo jedli."
+  }
+,
+  {
+    "name": "Rosół Staropolski",
+    "description": "Rosół gotowany na mięsie i dużej ilości świerzych warzyw. Najsmaczniejszy rosół jest gotowany w kamiennym garnku.",
+    "image": "images/rosol.jpg",
+    "reference": "Księga XII, I rosół staropolski sztucznie gotowany, do którego pan Wojski z dziwnemi sekrety, wrzucił kilka perełek i sztukę monety, (taki rosół krew czyści i pokrzepia zdrowie)."
+  }
+,
+  {
+    "name": "Czarna Polewka",
+    "description": "Czarna polewka to nic innego, jak rosół zabarwiony kaczą krwią, wzbogaconą o podroby, suszone śliwki i kluski. Charakterystyczny słodkawy smak nadaje daniu mieszanina cukru i octu, która nie pozwala zupie zakrzepnąć.",
+    "image": "images/polewka.jpg",
+    "reference": "Księga II, Wąsal tak wzbił się w dumę łaskawem przyjęciem, że mu się uroiło zostać pańskim zięciem. Do zamku nie proszony coraz częściej jeździł, w końcu u nas jak w swoim domu się zagnieździł, i już miał się oświadczać, lecz pomiarkowano i czarną mu polewkę do stołu podano."
+  }
+,
+  {
+    "name": "Gramatka - Polewka Piwna",
+    "description": "Jest to zupa, którą podajemy po drugim daniu. Do emaliowanego lub stalowego garnka wlewamy piwo rozcieńczone szklanką wody i wrzucamy przyprawy. Gdy się raz zagotuje, dolewamy śmietankę z odrobiną soli i natychmiast zaciągamy żółtkami utartymi naa puch z cukrem. Na każdy talerz kładziemy pokrojony w kostkę twaróg i zalewamy polewką. Oddzielnie podajemy zrumienione na maśle z oliwą kromki chleba lub bułki.",
+    "image": "images/gramatka.jpg",
+    "reference": "Księga II, Panie starsze już wcześniej wstawszy piły kawę, teraz drugą dla siebie zrobiły potrawę: Z gorącego, śmietaną bielonego piwa, w którym twaróg gruzłami posiekany pływa."
   }
 ]
