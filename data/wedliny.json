@@ -1,8 +1,22 @@
 [
   {
-    "name": "Przykladowe Wedliny",
-    "description": "Tutaj wpisz opis wedlin. Mozesz pisac o skladnikach, smaku, sposobie podania i innych szczegolach.",
-    "image": "images/przykladowe-wedliny.jpg",
-    "reference": "Pan Tadeusz, Ksiega I, w. 1-2"
+    "name": "Półgęseki Tłuste",
+    "description": "Wytwarza się je z piersi gęsiej oczyszczonej z kości, ale z zachowaną skórą, następnie pekluje i wędzi.",
+    "image": "images/geski.jpg",
+    "reference": "Księga II, DODAJ TU JESZCZE OPIS PÓŁGĘSEK TŁUSTYCH"
+  }
+,
+  {
+    "name": "Kumpia",
+    "description": "Mięso wkładamy do kamiennego garnka, trzymamy w temperaturze pokojowej 2 dni, żeby się sól rozpuściła. Posypujemy przyprawami i zostawiamy na 3 tygodnie. Codziennie mięso przewracamy i polewamy wytworzonym sosem. Po wyjęciu osuszamy i wędzimy.",
+    "image": "images/kumpia.jpg",
+    "reference": "Księga III, DODAJ TU JESZCZE OPIS KUMPIA"
+  }
+,
+  {
+    "name": "Skrzydliki Ozoru",
+    "description": "Skrzydliki ozoru to wieprzowina z serem zapiekana w słonym cieście.",
+    "image": "images/ozoru.jpg",
+    "reference": "Księga IV, DODAJ TU JESZCZE OPIS SKRZYDLIKÓW OZORU"
   }
 ]

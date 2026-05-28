@@ -1,8 +1,36 @@
 [
   {
-    "name": "Przykladowy Deser",
-    "description": "Tutaj wpisz opis deseru. Mozesz pisac o skladnikach, smaku, sposobie podania i innych szczegolach.",
-    "image": "images/przykladowy-deser.jpg",
-    "reference": "Pan Tadeusz, Ksiega I, w. 1-2"
+    "name": "Arbuzy",
+    "description": "",
+    "image": "images/arbuzy.jpg",
+    "reference": ""
+  }
+,
+  {
+    "name": "Winogrona",
+    "description": "",
+    "image": "images/winogrona.jpg",
+    "reference": ""
+  }
+,
+  {
+    "name": "Brunele Śliwki",
+    "description": "",
+    "image": "images/sliwki.jpg",
+    "reference": ""
+  }
+,
+  {
+    "name": "Blemas",
+    "description": "Kremowa galaretka przyrządzana z migdałów. Podstawowymi składnikami blemasu są migdały, cukier oraz żelatyna.",
+    "image": "images/blemas.jpg",
+    "reference": ""
+  }
+,
+  {
+    "name": "Legumina",
+    "description": "Słodka potrawa deserowa przyrządzana z mleka, kasz lub ryżu. Podstawowymi składnikami leguminy są mleko, cukier oraz produkty zbożowe, często uzupełniane bakaliami, miodem lub aromatami.",
+    "image": "images/legumina.jpg",
+    "reference": ""
   }
 ]

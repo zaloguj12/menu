@@ -1,8 +1,15 @@
 [
   {
-    "name": "Przykladowe Danie Miesne",
-    "description": "Tutaj wpisz opis dania miesnego. Mozesz pisac o skladnikach, smaku, sposobie podania i innych szczegolach.",
-    "image": "images/przykladowe-danie-miesne.jpg",
-    "reference": "Pan Tadeusz, Ksiega I, w. 1-2"
+    "name": "Bigos",
+    "description": "Do bigosu wykorzystuje se tłustsze kawałki wieprzowiny, wołowiny oraz dziczyzny. Celem uszlachetnienia smaku bigosu, w czasie gotowania podlewa się potrawę czerwonym winem, dodaje miód oraz powidła śliwkowe. Wagowo mięsiwa powinno być mniej więcej tyle samo co kapusty, a tej dodajemy świeżej i kiszonej zarazem.",
+    "image": "images/bigos.jpg",
+    "reference": "Księga IV, Jest bigos, bo się z jarzyn dobrych stucznie składa. Bierze się doń siekana, kwaszona kapusta, która, wedle przysłowia, sama idzie w usta; zamknięta w kotlem, łonem wilgotnym okrywa wyszukanego cząstkii najlepsze mięsiwa; i praży się, aż ogień wszystkie z niej wyciśnie soki żywne, aż z brzegów naczynia war pryśnie."
+  }
+,
+  {
+    "name": "Zrazy",
+    "description": "Zrazy przygotowujemy z mięsa wieprzowego, nadzienie do zrazów to: musztarda, ogórek kiszony, cebula i boczek. Interesujące smakowo są zrazy z nadzieniem kapusty kiszonej, chrzanu i cebuli, lub grzybów i cebuli.",
+    "image": "images/zrazy.jpg",
+    "reference": "Księga IX, DODAJ TU JESZCZE OPIS ZRAZÓW"
   }
 ]
