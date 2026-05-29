@@ -8,7 +8,39 @@
 ,
   {
     "name": "Wino",
-    "description": "Czerwone wino",
+    "description": "",
+    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "reference": "",
+    "subcategory": "napoje-alkoholowe"
+  }
+,
+  {
+    "name": "Piwo",
+    "description": "",
+    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "reference": "",
+    "subcategory": "napoje-alkoholowe"
+  }
+,
+  {
+    "name": "Wódka",
+    "description": "",
+    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "reference": "",
+    "subcategory": "napoje-alkoholowe"
+  }
+,
+  {
+    "name": "Miód Pitny",
+    "description": "",
+    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "reference": "",
+    "subcategory": "napoje-alkoholowe"
+  }
+,
+  {
+    "name": "Poncz",
+    "description": "",
     "image": "images/przykladowy-napoj-alkoholowy.jpg",
     "reference": "",
     "subcategory": "napoje-alkoholowe"
