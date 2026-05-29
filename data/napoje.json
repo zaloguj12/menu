@@ -6,10 +6,10 @@
     "reference": "Pan Tadeusz, Ksiega I, w. 1-2"
   },
   {
-    "name": "Przykladowy Napoj Alkoholowy",
-    "description": "Tutaj wpisz opis napoju alkoholowego. Mozesz pisac o skladnikach, smaku, sposobie podania i innych szczegolach.",
+    "name": "Wino",
+    "description": "Czerwone wino",
     "image": "images/przykladowy-napoj-alkoholowy.jpg",
-    "reference": "Pan Tadeusz, Ksiega I, w. 1-2",
+    "reference": "",
     "subcategory": "napoje-alkoholowe"
   }
 ]
