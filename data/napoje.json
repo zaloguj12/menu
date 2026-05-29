@@ -9,7 +9,7 @@
   {
     "name": "Wino",
     "description": "",
-    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "image": "images/wino.jpg",
     "reference": "",
     "subcategory": "napoje-alkoholowe"
   }
@@ -17,7 +17,7 @@
   {
     "name": "Piwo",
     "description": "",
-    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "image": "images/piwo.jpg",
     "reference": "",
     "subcategory": "napoje-alkoholowe"
   }
@@ -25,7 +25,7 @@
   {
     "name": "Wódka",
     "description": "",
-    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "image": "images/wodka.jpg",
     "reference": "",
     "subcategory": "napoje-alkoholowe"
   }
@@ -33,7 +33,7 @@
   {
     "name": "Miód Pitny",
     "description": "",
-    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "image": "images/miod-pitny.jpg",
     "reference": "",
     "subcategory": "napoje-alkoholowe"
   }
@@ -41,7 +41,7 @@
   {
     "name": "Poncz",
     "description": "",
-    "image": "images/przykladowy-napoj-alkoholowy.jpg",
+    "image": "images/poncz.jpg",
     "reference": "",
     "subcategory": "napoje-alkoholowe"
   }
